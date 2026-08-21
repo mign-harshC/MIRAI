@@ -35,7 +35,6 @@ Training flattens the hierarchical round/step trajectory into a unified buffer, 
 - `examples/ppo_trainer/run_qwen2.5_test.sh`: environment-configured evaluation launcher.
 - `verl/`: retained third-party reinforcement-learning framework and MIRAI integration points.
 - `recipe/`, `examples/`, `tests/`, `docs/`: upstream training recipes, examples, tests, and framework documentation.
-- `THIRD_PARTY_NOTICES.md`, `UPSTREAM.md`: license and source provenance.
 
 ## Installation
 
