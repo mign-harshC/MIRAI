@@ -40,7 +40,6 @@ MIRAI
 Multi-agent Integrated Retrieval, Adaptation, and Inference
 ```
 
-Changes to method descriptions, benchmark numbers, equations, figures, tables, or experiment claims must preserve the retained-source-study scope. See `README.md`, `UPSTREAM.md`, and `THIRD_PARTY_NOTICES.md` before altering scientific or provenance language.
 
 ## Reporting Security Issues
 
