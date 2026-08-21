@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "MIRAI: Bridging Planning and Execution in Dynamic Agentic RAG"
+message: "If you use MIRAI, cite the MIRAI paper and the upstream works documented in THIRD_PARTY_NOTICES.md."
+type: software
+authors:
+  - name: MIRAI Research Team
+version: 0.1.0
+date-released: 2026-08-21
+license: Apache-2.0
+repository-code: "https://github.com/mign-harshC/MIRAI"
+
